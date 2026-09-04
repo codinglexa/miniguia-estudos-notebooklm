@@ -1,6 +1,7 @@
 # 📚 [Guia da Plataforma Lovable]
 
 > **Caderno Temático de Estudos desenvolvido com o auxílio do NotebookLM.**
+> [https://notebook.google.com/notebook/482ba7df-68ca-4d3f-b2b7-3e35cd3b3b7c]
 
 ## 🎯 1. Contexto e Objetivos
 
